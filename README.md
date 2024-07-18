@@ -1,6 +1,6 @@
 # bank
 
-This is a bank application with a backend built using Spring Boot with JWT for authentication. The application includes role-based access for employees and customers.
+This is a bank application with a backend built using Spring Boot.
 
 ## Table of Contents
 
@@ -8,8 +8,6 @@ This is a bank application with a backend built using Spring Boot with JWT for a
   - [Backend Setup](#backend-setup)
 
 ## Features
-
-- User authentication with JWT
 - Role-based access control (Employee and Customer)
 - Separate dashboards for employees and customers
 
